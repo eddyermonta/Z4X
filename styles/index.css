@@ -1,0 +1,33 @@
+.subtitulo{
+    margin: 11px;
+    padding: 0px;
+}
+
+.titulo-interno{
+    font-size: 24px;
+}
+.container{
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.imagen{
+    float: right;
+    margin: 0 0 20px 15px;
+    max-width: 20%;
+    height: auto;
+}
+
+.imagen-2{
+    float: left;
+    margin: 0 20px 20px 0;
+    max-width: 20%;
+    height: auto;
+}
+
+p{
+    font-size: 1.5em;
+    text-align: justify;
+}
+
